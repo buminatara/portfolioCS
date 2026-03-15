@@ -44,18 +44,18 @@ Saya adalah pelajar cybersecurity yang passionate tentang security research, eth
 
 ## 🏆 Featured Projects
 
-### 1. **[Project Name] - Web Application Vulnerability Scanner**
+### 1. **Web Application Vulnerability Scanner**
 Automated tool untuk scan vulnerability pada web applications menggunakan OWASP methodology.
 - **Tech Stack:** Python, Requests, BeautifulSoup
 - **Key Features:** SQLI detection, XSS scanning, CSRF validation
 - **Status:** ✅ Completed
 
-### 2. **[Project Name] - Malware Analysis Report**
+### 2. **Malware Analysis Report**
 Analisis & reverse engineering dari malware sample dengan detailed IOCs.
 - **Tech Stack:** IDA Pro, x64dbg, Wireshark
 - **Key Findings:** [malware type], persistence mechanism, C2 communication
 
-### 3. **[Project Name] - Network Intrusion Detection System**
+### 3. **Network Intrusion Detection System**
 NIDS lab setup menggunakan open-source tools untuk detect suspicious traffic.
 - **Tech Stack:** Suricata, Wazuh, ELK Stack
 - **Scenarios Tested:** Port scanning, brute force, data exfiltration
@@ -65,15 +65,8 @@ NIDS lab setup menggunakan open-source tools untuk detect suspicious traffic.
 ## 📚 Learning & Certifications
 - 🎓 **Pursuing:** CompTIA Security+ / CEH / OSCP
 - 🏅 **CTF Achievements:**
-  - HackTheBox:
-  - TryHackMe:
-
----
-
-## 🔬 Recent Write-ups & Research
-- [Analisis CVE-2024-XXXXX](./writeups/cve-analysis)
-- [HTB: [Machine Name] Walkthrough](./writeups/htb-machine)
-- [Web Security Testing Guide](./writeups/web-testing-guide)
+  - HackTheBox
+  - TryHackMe
 
 ---
 
@@ -85,18 +78,12 @@ NIDS lab setup menggunakan open-source tools untuk detect suspicious traffic.
 
 ---
 
-## 📊 Activity & Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=buminatara&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=buminatara)
-
----
-
 ## 🤝 Connect With Me
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **HackTheBox:** [profile link]
-- **TryHackMe:** [profile link]
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** buminatara07@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/buminatara/
+- **HackTheBox:** Natarxt
+- **TryHackMe:** username: Natarxt
+
 
 ---
 
