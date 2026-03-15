@@ -2,7 +2,7 @@
 
 # Cybersecurity Portfolio - buminatara
 ## About Me
-Saya adalah pelajar cybersecurity yang passionate tentang security research, ethical hacking, dan protection dari digital threats. Saat ini berfokus pada penetration testing dan network security
+Saya adalah mahasiswa cybersecurity yang passionate tentang AI security research, AI ethical hacking, dan AI protection dari digital threats. Saat ini berfokus pada penetration testing dan network security
 
 ---
 
