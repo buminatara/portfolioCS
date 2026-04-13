@@ -63,10 +63,10 @@ NIDS lab setup menggunakan open-source tools untuk detect suspicious traffic.
 ---
 
 ## 📚 Learning & Certifications
-- 🎓 **Pursuing:** CompTIA Security+ / CEH / OSCP
 - 🏅 **CTF Achievements:**
   - HackTheBox
   - TryHackMe
+  - FGTIO
 
 ---
 
