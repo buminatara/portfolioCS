@@ -1,93 +1,83 @@
-# portfolioCS
+# Hi, I'm Bumi 👋
+Mahasiswa S1 Informatika yang memiliki minat pada bidang **Cybersecurity dan Artificial Intelligence**.
 
-# Cybersecurity Portfolio - buminatara
-## About Me
-Saya adalah mahasiswa cybersecurity yang passionate tentang AI security research, AI ethical hacking, dan AI protection dari digital threats. Saat ini berfokus pada penetration testing dan network security
+Saat ini saya sedang fokus mempelajari:
+- Web Security & OWASP Top 10
+- Network Security dasar
+- Python for Security Automation
+- Machine Learning fundamentals
+- AI for threat detection & anomaly analysis
 
----
-
-## 🎯 Expertise Areas
-- **Penetration Testing & Ethical Hacking**
-- **Network Security & Protocol Analysis**
-- **Web Application Security (OWASP Top 10)**
-- **Reverse Engineering & Malware Analysis**
-- **Incident Response & Forensics**
-- **Cryptography & Encryption**
+Saya aktif mengembangkan project kecil berbasis security automation dan AI sebagai bagian dari proses belajar.
 
 ---
 
-## 💻 Technical Skills
-
-### Offensive Security
-- Penetration Testing Tools: Metasploit, Burp Suite, Nmap, Wireshark
-- Scripting: Python, Bash, PowerShell
-- Web Security: SQL Injection, XSS, CSRF, Authentication Bypass
-
-### Defensive Security
-- SIEM Tools: [Splunk/ELK Stack/Wazuh]
-- Firewall Management: [pfSense/iptables]
-- Intrusion Detection: Snort, Suricata
-- Log Analysis & Threat Hunting
-
-### System & Network
-- Linux (Kali, Ubuntu)
-- Windows Server
-- Network Protocols (TCP/IP, DNS, HTTP/S)
-- Virtualization (VirtualBox, VMware)
-
-### Other Tools
-- Wireshark, tcpdump, GDB
+## Skills
+- Python
+- Basic Bash Scripting
+- HTML, CSS, JavaScript
+- SQL
+- Linux (Ubuntu / Kali Linux)
 - Git & GitHub
-- Docker (Basic)
+
+### Cybersecurity
+- Nmap
+- Wireshark
+- Burp Suite (basic)
+- OWASP Top 10
+- Basic vulnerability assessment
+
+### AI / Data
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Basic model training
 
 ---
 
-## 🏆 Featured Projects
+## Projects
 
-### 1. **Web Application Vulnerability Scanner**
-Automated tool untuk scan vulnerability pada web applications menggunakan OWASP methodology.
-- **Tech Stack:** Python, Requests, BeautifulSoup
-- **Key Features:** SQLI detection, XSS scanning, CSRF validation
-- **Status:** ✅ Completed
+### 1. Simple Port Scanner
+Membuat tools sederhana menggunakan Python untuk melakukan scanning port pada target host.
 
-### 2. **Malware Analysis Report**
-Analisis & reverse engineering dari malware sample dengan detailed IOCs.
-- **Tech Stack:** IDA Pro, x64dbg, Wireshark
-- **Key Findings:** [malware type], persistence mechanism, C2 communication
+**Tech:** Python, socket
 
-### 3. **Network Intrusion Detection System**
-NIDS lab setup menggunakan open-source tools untuk detect suspicious traffic.
-- **Tech Stack:** Suricata, Wazuh, ELK Stack
-- **Scenarios Tested:** Port scanning, brute force, data exfiltration
+**Features:**
+- Scan port range
+- Detect open ports
+- Service banner grabbing sederhana
 
 ---
 
-## 📚 Learning & Certifications
-- 🏅 **CTF Achievements:**
-  - HackTheBox
-  - TryHackMe
-  - FGTIO
+### 2. Login Anomaly Detection
+Mini project machine learning untuk mendeteksi aktivitas login mencurigakan berdasarkan pola IP, waktu login, dan jumlah percobaan.
+
+**Tech:** Python, Pandas, Scikit-learn
+
+**Concept:**
+- Data preprocessing
+- Classification model
+- Accuracy evaluation
 
 ---
 
-## 🛠️ Tools & Environment
-- **OS:** Linux (Kali/Ubuntu), Windows
-- **Primary Languages:** Python, Bash
-- **Favorite Tools:** Burp Suite, Metasploit, Wireshark, Ghidra
-- **Lab Environment:** VirtualBox / Proxmox
+### 3. Basic Web Vulnerability Lab
+Lab sederhana untuk memahami SQL Injection dan XSS pada aplikasi demo lokal.
+
+**Tech:** DVWA, Burp Suite, Kali Linux
 
 ---
 
-## 🤝 Connect With Me
-- **Email:** buminatara07@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/buminatara/
-- **HackTheBox:** Natarxt
-- **TryHackMe:** username: Natarxt
-
+## Learning Journey
+Saat ini saya sedang mendalami:
+- SOC analyst fundamentals
+- Malware analysis basic
+- AI model untuk cybersecurity use case
+- CTF challenge (TryHackMe / HackTheBox)
 
 ---
 
-## 📝 Note
-Portfolio ini terus berkembang. Project terbaru dan write-up rutin di-update. Untuk pertanyaan atau collaboration, feel free to reach out!
-
-**Last Updated:** March 2026
+## Contact
+LinkedIn: www.linkedin.com/in/buminatara
+GitHub: www.github.com/buminatara
